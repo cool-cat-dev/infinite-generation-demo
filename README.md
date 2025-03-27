@@ -6,7 +6,6 @@ This repository contains the completed code for my Godot 4 Infinite World Genera
 
 - Infinite procedural world generation
 - Chunk-based loading and unloading
-- Optimized for performance
 - Player-centered world creation
 - Camera system with optional map view
 - Simple resource distribution algorithm
