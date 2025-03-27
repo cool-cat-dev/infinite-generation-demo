@@ -1,6 +1,6 @@
 # Godot 4 Infinite World Generation
 
-This repository contains the completed code for my Godot 4 Infinite World Generation tutorial. This system is designed to be simple to understand yet flexible enough to expand for your own procedurally generated game projects.
+This repository contains the completed code for my Godot 4 Infinite World Generation tutorial. This system is very minimalist but could be expanded for larger-scale projects.
 
 ## Features
 
